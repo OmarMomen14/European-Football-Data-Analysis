@@ -2,8 +2,6 @@
 
 <font size="3">A popular Kaggle dataset is being used for this analysis, this dataset is called "European Soccer Database", it's a very extensive dataset that contains (according to Kaggle page)</font>
 
-<font size="3">you can <a href='https://d17h27t6h515a5.cloudfront.net/topher/2017/November/5a0a4cad_database/database.sqlite'>download</a> the database file and then copy to the project folder to run the code by yourself.</font>
-
 - 25,000 matches
 - +10,000 players
 - 11 European Countries with their lead championship
@@ -12,6 +10,8 @@
 - Team line up with squad formation (X, Y coordinates)
 - Betting odds from up to 10 providers
 - Detailed match events (goal types, possession, corner, cross, fouls, cards etc...) for +10,000 matches
+
+<font size="3">you can <a href='https://d17h27t6h515a5.cloudfront.net/topher/2017/November/5a0a4cad_database/database.sqlite'>download</a> the database file and then copy to the project folder to run the code by yourself.</font>
 
 
 
